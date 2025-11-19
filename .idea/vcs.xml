@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/modulo1-java-basico/mitocode-mod1-poo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/modulo1-java-basico/prueba" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prueba_2" vcs="Git" />
   </component>
 </project>
